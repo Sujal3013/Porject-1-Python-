@@ -3,8 +3,7 @@ import mysql.connector
 import datetime
 now = datetime.datetime.now()
 print("Time of SYSTEM IMPLEMENTATION :",now)
-print( "\t\t☻☻☻ PROJECT Made By MISHRA BROTHERS ☻☻☻\t\t\t")
-print("\t\t\t\t $ujal Mishra and  Äyush Mishra\t\t\t\t")
+print("\t\t\t\t $ujal Mishra\t\t\t\t")
 print("\t\t\♫♫♫♫«╬╬╬╬╬«╬«╬╬╬╬╬«♫♫♫♫\t\t\t")
 '''.................................................................................................................'''
 def product_mgmt( ):
